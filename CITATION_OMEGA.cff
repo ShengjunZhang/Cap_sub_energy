@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript when using this analysis."
+title: "Information requirements for fossil-fuel retirement decisions"
+type: software
+version: "omega-v8-analysis-20261011"
+authors:
+  - family-names: Liu
+    given-names: Tingyi
+  - family-names: Zhang
+    given-names: Heng
+  - family-names: Zhang
+    given-names: Shengjun
+repository-code: "https://github.com/ShengjunZhang/Cap_sub_energy"

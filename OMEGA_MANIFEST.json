@@ -1,0 +1,28 @@
+{
+  "format": "flat upload; paths retained inside the archive",
+  "archive": "Retirement_information_analysis.zip",
+  "date": "2026-10-24",
+  "files": {
+    "requirements_omega.txt": {
+      "bytes": 178,
+      "sha256": "0ee84382127bc9ffcf5935e90b1961b316a9227bb82e6eb3d3f268bd81e0d3dd"
+    },
+    "Retirement_information_analysis.zip": {
+      "bytes": 5003674,
+      "sha256": "f52326cd067ef020ecce59210bd2815ec6c53cadbeb140cc3f93ba4b41a8317c"
+    },
+    "reproduce_omega.py": {
+      "bytes": 3966,
+      "sha256": "0687974495bfe091bfe63e8ee9c84eef7d6c11d47706c94ceb0d230e33fe3d6b"
+    },
+    "CITATION_OMEGA.cff": {
+      "bytes": 451,
+      "sha256": "878618375309b6628b67278b93974f5ed60392e9ca578f4a105fbf302a7a649b"
+    },
+    "README_OMEGA.md": {
+      "bytes": 2728,
+      "sha256": "1f3ef48498d8623f13c35f18acaf356f4208ccce50c11163f41b8fa669b953f2"
+    }
+  },
+  "package": "Omega retirement-information analysis"
+}
